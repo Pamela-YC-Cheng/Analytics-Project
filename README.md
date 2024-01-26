@@ -1,2 +1,2 @@
-# Supply-Chain--Local-Optimization
+# Supply-Chain-Local-Optimization
 Local Optimization Project
