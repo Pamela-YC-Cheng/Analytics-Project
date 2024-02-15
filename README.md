@@ -1,4 +1,4 @@
-# Supply-Chain-Analtics_Local-Optimization
+# Supply-Chain-Analytics_Project1: Local-Optimization
 Pickup place Optimization Project
 
 The project aims to find the best location for a parcel pick-up facility that minimizes total travel time (one way to the pick-up point) for people in the top 10 neighbourhoods with the most people in Atlanta.
